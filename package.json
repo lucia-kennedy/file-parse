@@ -1,0 +1,17 @@
+{
+  "name": "lucia-kennedy-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log-parser.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node log-parser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.3",
+    "winston": "^3.8.2"
+  }
+}
